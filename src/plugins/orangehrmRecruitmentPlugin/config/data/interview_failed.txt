@@ -1,0 +1,15 @@
+Dear {{ candidateName }},
+
+Thank you for your interest in the {{ jobTitle }} position and for taking the time to interview with our team.
+
+We confirm your participation in the {{ interviewName }} round on {{ interviewDate }} at {{ interviewTime }}.
+
+While your experience is valued, we have decided to move forward with other candidates whose qualifications more closely aligned with the specific requirements of the {{ jobTitle }} role at this time.
+
+We encourage you to explore other openings on our careers page in the future.
+
+We wish you the best of luck in your job search.
+
+Sincerely,
+
+PTC-HR Recruitment Team

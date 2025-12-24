@@ -1,0 +1,15 @@
+Dear {{ candidateName }},
+
+We are delighted to inform you that you have 'Successfully Passed' your recent interview for the {{ jobTitle }} position.
+
+We were impressed with your performance during the {{ interviewName }} round held on {{ interviewDate }} at {{ interviewTime }}.
+
+Your skills are an excellent match for our team, and we are excited to advance you to the next stage of our selection process.
+
+We will contact you as we move forward with scheduling the next stage.
+
+Congratulations once again!
+
+Best regards,
+
+PTC-HR Recruitment Team

@@ -1,0 +1,22 @@
+Dear {{ candidateName }},
+
+We are thrilled to let you know that we will be extending a formal offer of employment to you for the position of {{ jobTitle }}.
+
+The team was thoroughly impressed with your skills and we are excited about the prospect of you joining Pateros Technological College.
+
+Our Human Resources department has prepared your formal offer.
+
+* Kindly review the attached offer package immediately, as it contains all the necessary and official details of your employment.
+
+* After carefully reviewing the attached document, please respond to this email to formally confirm your acceptance or rejection of this job offer.
+
+* Should you have any immediate questions prior to making your decision, please do not hesitate to contact us.
+
+* Notes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ offerNote }}
+
+We look forward to welcoming you to the team!
+
+Best regards,
+
+PTC-HR Recruitment Team

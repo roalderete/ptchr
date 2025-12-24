@@ -1,0 +1,13 @@
+Dear {{ candidateName }},
+
+Thank you for contacting us and for taking the time to let us know that you will be declining the offer for the {{ jobTitle }} position at Pateros Technological College.
+
+While we are certainly disappointed that you will not be joining the team, we completely respect your decision and wish you the very best in your career endeavors.
+
+We genuinely appreciate the time you invested in our recruitment and interview process.
+
+We wish you every success in your new role and future career path.
+
+Sincerely,
+
+PTC-HR Recruitment Team

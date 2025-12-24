@@ -1,0 +1,21 @@
+Dear {{ candidateName }},
+
+Thank you again for your interest in the {{ jobTitle }} position at Pateros Technological College. We were impressed with your application and are pleased to invite you to interview for the role.
+
+The details of your scheduled interview are as follows:
+
+* Interview Stage: {{ interviewName }}
+* Date: {{ interviewDate }}
+* Time: {{ interviewTime }}
+* Address: 205 College Street, Sto. Rosario-Kanluran, Pateros, Metro Manila 
+
+* Notes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ interviewDetails }}
+
+Please reply to this email to confirm your attendance. If you need to reschedule, kindly notify us at least 24 hours in advance.
+
+We look forward to speaking with you.
+
+Best regards,
+
+PTC-HR Recruitment Team

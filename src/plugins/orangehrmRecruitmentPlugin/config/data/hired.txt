@@ -1,0 +1,22 @@
+Dear {{ candidateName }},
+
+Following the successful completion of your application and interview process, we are absolutely delighted to confirm your acceptance of the job offer for the position of {{ jobTitle }} at Pateros Technological College.
+
+We are thrilled to officially welcome you to the PTC team!
+
+* First Day Instruction: MIS Department Visit
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To ensure a smooth onboarding and to prepare your necessary work tools, please report to the MIS Department (Management Information Systems) on or before your first day of employment to obtain your official system account credentials and initial IT setup.
+
+* MIS Department Address: 205 College Street, Sto. Rosario-Kanluran, Pateros, Metro Manila
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Please report to the main college reception desk first if you are unsure of the department location.)
+
+* Notes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ offerNote }}
+
+We are very excited about your contribution to Pateros Technological College.
+
+Welcome aboard!
+
+Best regards,
+
+PTC-HR Recruitment Team
